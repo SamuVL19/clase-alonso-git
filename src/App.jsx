@@ -10,7 +10,8 @@ function App() {
     <>
       <div>
         <h1>Samuel Vera Lopez</h1>
-        
+        <h1>nicolas el mejor</h1>
+        <h1>la mala para urueña</h1>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
